@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "677044504242",
+    "firebase_url": "https://reviewphuket-8ccf6.firebaseio.com",
+    "project_id": "reviewphuket-8ccf6",
+    "storage_bucket": "reviewphuket-8ccf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677044504242:android:af6dc005a06dda89",
+        "android_client_info": {
+          "package_name": "com.example.marry.reviewphuket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677044504242-v5kono2cl2edmp2ekaicin082hsrbr9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marry.reviewphuket",
+            "certificate_hash": "9ede01f6c5e7e98d6cedf4850e03ac8042da702f"
+          }
+        },
+        {
+          "client_id": "677044504242-p15ck2kq67tspq01qs4nse24pbe5khg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiZZaqyQBLkbi61brQdIUdk_NDmiRftm8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677044504242-p15ck2kq67tspq01qs4nse24pbe5khg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
